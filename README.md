@@ -1,4 +1,6 @@
 cpimm
 =====
 
-git renshuu
+git 練習開始です。
+
+
